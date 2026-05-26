@@ -1,4 +1,4 @@
-#  Smart Campus Vehicle Monitoring System 
+<img width="1698" height="875" alt="Screenshot 2026-05-26 214210" src="https://github.com/user-attachments/assets/147ebdc7-3efc-41a6-9415-2fa1443e3539" />#  Smart Campus Vehicle Monitoring System 
 #  Project Overview
 
 The Smart Campus Vehicle Monitoring System is a Deep Learning and YOLO-based computer vision application developed to detect, classify, track, and count vehicles such as cars and college buses within a campus environment. The system is capable of processing single images, multiple images, CCTV footage, and uploaded videos in real time using advanced object detection and tracking techniques.
